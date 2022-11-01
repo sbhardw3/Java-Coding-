@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Movie
+comment1.params=
+comment1.target=Movie()
+comment10.params=day
+comment10.target=double\ calcLateFees(int)
+comment11.params=other
+comment11.target=boolean\ equals(Movie)
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=newRating\ newID\ newTitle
+comment2.target=Movie(java.lang.String,\ int,\ java.lang.String)
+comment3.params=other
+comment3.target=Movie(Movie)
+comment4.params=
+comment4.target=java.lang.String\ getRating()
+comment5.params=
+comment5.target=int\ getID()
+comment6.params=
+comment6.target=java.lang.String\ getTitle()
+comment7.params=newRating
+comment7.target=void\ setRating(java.lang.String)
+comment8.params=newID
+comment8.target=void\ setID(int)
+comment9.params=newTitle
+comment9.target=void\ setTitle(java.lang.String)
+numComments=13

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PhoneRecord
+comment1.params=
+comment1.target=PhoneRecord()
+comment2.params=firstName\ lastName\ number
+comment2.target=PhoneRecord(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

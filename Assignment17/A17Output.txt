@@ -1,0 +1,10 @@
+Output:
+
+floor mat Price and total cost = $ 10.00
+floor mat Price $ 11.00 Discount = 10.0%
+Total cost = $9.90
+Discounted item is cheaper.
+cup holder Price and total cost = $ 9.90
+cup holder Price $ 11.00 Discount = 10.0%
+Total cost = $9.90
+Deals are equal.

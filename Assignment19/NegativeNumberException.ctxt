@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NegativeNumberException
+comment1.params=number
+comment1.target=NegativeNumberException(int)
+comment2.params=
+comment2.target=NegativeNumberException()
+comment3.params=message
+comment3.target=NegativeNumberException(java.lang.String)
+comment4.params=
+comment4.target=int\ getNegativeNumber()
+numComments=5
