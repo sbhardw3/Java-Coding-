@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Payment
+comment0.text=\r\n\r\n
+comment1.params=
+comment1.target=Payment()
+comment2.params=newAmount
+comment2.target=Payment(double)
+comment3.params=other
+comment3.target=Payment(Payment)
+comment4.params=
+comment4.target=double\ getAmount()
+comment5.params=newAmount
+comment5.target=void\ setAmount(double)
+comment6.params=
+comment6.target=void\ paymentDetails()
+numComments=7

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Payroll
+comment1.params=
+comment1.target=Payroll()
+comment10.params=other
+comment10.target=boolean\ equals(Payroll)
+comment11.params=
+comment11.target=double\ getPay()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=newName\ newID\ newJobTitle
+comment2.target=Payroll(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=other
+comment3.target=Payroll(Payroll)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getID()
+comment6.params=
+comment6.target=java.lang.String\ getJobTitle()
+comment7.params=newName
+comment7.target=void\ setName(java.lang.String)
+comment8.params=newID
+comment8.target=void\ setID(java.lang.String)
+comment9.params=newJobTitle
+comment9.target=void\ setJobTitle(java.lang.String)
+numComments=13
